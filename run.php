@@ -5,7 +5,7 @@ include __DIR__ . '/config.php';
 
 use Discord\Discord;
 
-$token = '<token>';
+$token = 'TOKEN';
 
 // We need the object for work with discord
 $discord = new Discord([

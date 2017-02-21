@@ -1,0 +1,12 @@
+{
+    "name": "evilfreelancer/discord-bot",
+    "authors": [
+        {
+            "name": "Paul Rock",
+            "email": "paul@drteam.rocks"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    }
+}
