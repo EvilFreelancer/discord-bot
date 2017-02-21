@@ -1,11 +1,9 @@
 <?php
-include __DIR__ . '/../vendor/autoload.php';
+include __DIR__ . '/vendor/autoload.php';
 include __DIR__ . '/libs.php';
-include __DIR__ . '/config.php';
+include __DIR__ . '/token.php';
 
 use Discord\Discord;
-
-$token = 'TOKEN';
 
 // We need the object for work with discord
 $discord = new Discord([

@@ -26,7 +26,8 @@ You need obtain the token from the discord developers portal, for this you need:
 * Save
 * Now we need click to **Create new bot user**
 * In line **Token: click to reveal** you need **click to reveal** this is your bot token
-    * To this token need replace the **TOKEN** into `run.php` 
+    * Copy `token.example.php` to `token.php`
+    * To this token need replace the **TOKEN** inside `token.php` file 
 * Also you need the **Client ID** for next step
 
 Ok, bot is ready, now we need add into our Discord group:
